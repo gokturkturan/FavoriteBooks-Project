@@ -25,16 +25,21 @@ Showing book's photo by entering book id
 # UML DIAGRAMS
 
 Class Diagram
-![Class Diagram](https://user-images.githubusercontent.com/89880316/149670734-1245c05d-cde6-4af5-b0fc-74d0df7ed29d.PNG
+
+![Class Diagram] (https://user-images.githubusercontent.com/89880316/149670734-1245c05d-cde6-4af5-b0fc-74d0df7ed29d.PNG
 
 Data Flow Diagram Level 0
+
 ![Data Flow Diagram - Level 0](https://user-images.githubusercontent.com/89880316/149670750-c023a679-9124-488f-84f1-db9f117369a4.PNG)
 
 Data Flow Diagram Level 1
+
 ![Data Flow Diagram - Level 1](https://user-images.githubusercontent.com/89880316/149670756-430b8f55-ed40-4bd3-8510-c06bb6f8d0d8.PNG)
 
 Sequence Diagram
+
 ![Sequence Diagram](https://user-images.githubusercontent.com/89880316/149670762-df3bd59e-a5a6-4a72-ac13-bbcbc1013d0c.PNG)
 
 Use Case Diagram
+
 ![Use Case Diagram](https://user-images.githubusercontent.com/89880316/149670769-12d8e8e1-2f05-40f0-89a2-27d6bede049d.PNG)
