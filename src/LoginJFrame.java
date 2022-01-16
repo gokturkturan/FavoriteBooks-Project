@@ -108,7 +108,7 @@ public void clearFiedls(){
     private void LoginButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LoginButtonActionPerformed
 
         BookJFrame second_frame = new BookJFrame();
-        String username = "altar";
+        String username = "Göktürk";
         if(UsernameText.getText().equals(username)){
             second_frame.setVisible(true);
             close();
