@@ -1,0 +1,8 @@
+1,Animal Farm,Dystopian,George Orwell,Retro Hugo Best Short Novel Award,4,2020,112,Animal Farm is a novel about a group of animals who take control of the farm they live on
+2,A Clockwork Orange,Black Humor,Anthony Burgess,Prometheus Chair of Honor Award,2,2019,176,A clockwork orange is the first-person account of a juvenile delinquent who undergoes state-sponsored psychological rehabilitation for his aberrant behaviour
+3,The Alchemist,Adventure,Paulo Coelho,Nielsen Gold Book Award,3,2018,163,The Alchemist follows the journey of an Andalusian shepherd boy named Santiago
+4,What Men Live By,Fiction,Lev Tolstoy,No Award,5,2018,54,The angel Michael learns that people dwell best when in love and that they do not always know what is in their best interests
+5,The Royal Game,Fiction,Stefan Zweig,No Award,4,2017,85,Led by the Scottish oil magnate McConnor a group of wealthy chess enthusiasts challenges the world champion for an appropriate fee in a game of simultaneous chess
+7,Title,Category,Author F-L Name,Award Winner,1,Year,Number of Page,Short Description
+8,Title,Category,Author F-L Name,Award Winner,1,Year,Number of Page,Short Description
+9,Title,Category,Author F-L Name,Award Winner,1,Year,Number of Page,Short Description
